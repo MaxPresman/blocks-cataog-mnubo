@@ -1,4 +1,4 @@
 {
     "name": "post-event-handler",
-    "type": "before-publish"
+    "type": "after-publish"
 }
