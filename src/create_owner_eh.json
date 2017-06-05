@@ -1,0 +1,4 @@
+{
+    "name": "create-owner-handler",
+    "type": "before-publish"
+}

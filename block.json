@@ -1,0 +1,7 @@
+{
+    "name": "Mnubo Block",
+    "description": "Mnubo's SmartObjects Cloud Block",
+    "license": "ISC",
+    "version": 1,
+    "dependencies": {}
+}
