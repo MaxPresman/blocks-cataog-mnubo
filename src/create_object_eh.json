@@ -1,4 +1,4 @@
 {
       "name": "create-object-handler",
-      "type": "before-publish"
+      "type": "after-publish"
 }
